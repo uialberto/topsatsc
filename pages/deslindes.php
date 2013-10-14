@@ -32,28 +32,17 @@
             un estudio topogr&aacute;fico en el caso de que se recurra administrativamente o en los Tribunales de Justicia.
             Entre los motivos para efectuar el deslinde de terrenos  son por adquisici&oacute;n de herencia y para evitar intrusiones.
 		</p> 
-<<<<<<< HEAD
         <!-- Plugin Comentario Facebook -->
         <div  align="center">
           <h5 style="color: #666666; font-weight: bold; line-height: 1.25; text-align: left;">Opina sobre nosotros</h5>
           <div class="fb-comments" data-href="http://www.topsatsc.com/index.php?page=servicios&subpage=deslindes" data-num-posts="5" data-width="650"></div>     
         </div>
         <!-- Plugin Comentario Facebook -->
-=======
-
-    <!-- Plugin Comentario Facebook -->
-    <div  align="center">
-      <h5 style="color: #666666; font-weight: bold; line-height: 1.25; text-align: left;">Opina sobre nosotros</h5>
-      <div class="fb-comments" data-href="http://www.topsatsc.com/index.php?page=servicios&subpage=deslindes" data-num-posts="5" data-width="650"></div>     
-    </div>
-    <!-- Plugin Comentario Facebook -->
->>>>>>> 4aab4aa79218cd8aea49e3dc466746ed7191f403
    </div>
 </div>
 <div class="grid_3" prefix_10>       
       <div class="descripcion-topografo"> 
            <h5 style="color: #666666; font-weight: bold; line-height: 1.25;">Servicio de Calidad</h5>
-<<<<<<< HEAD
             <div align="center" class="img-topografo">
                 <img src="img/service.jpg"  title="Im&aacute;genes Satelitales" alt="Im&aacute;genes Satelitales" width="100px" height="100px" />
             </div>
@@ -61,31 +50,13 @@
                 <i>"La calidad nunca es un accidente; siempre es el resultado de un esfuerzo de la inteligencia"</i>
             </p>
        </div>              
-=======
-                <div align="center" class="img-topografo">
-                    <img src="img/service.jpg"  title="Im&aacute;genes Satelitales" alt="Im&aacute;genes Satelitales" width="100px" height="100px" />
-                </div>
-                <p class="texto-parrafo">
-                    <i>"La calidad nunca es un accidente; siempre es el resultado de un esfuerzo de la inteligencia"</i>
-                </p>
-       </div>
-       
-       
->>>>>>> 4aab4aa79218cd8aea49e3dc466746ed7191f403
        <div class="descripcion-topografo" >
             <h5 style="color: #666666; font-weight: bold; line-height: 1.25;">Nuestro Facebook</h5>
             <div align="center" class="fb-like-box" data-href="http://www.facebook.com/topsatsc" data-width="200" data-show-faces="true" data-stream="false" data-header="true"></div>
             <div align="left" class="img-topografo">
-<<<<<<< HEAD
              <a href="http://www.facebook.com/topsatsc" target="_blank" Title="Nuestro Facebook" alt="Nuestro Facebook"><img src="img/facebookfans.png"  title="Visita Nuestro Facebook" alt="Visita Nuestro Facebook" width="200px" height="98px" /></a>
             </div>
        </div>       
-=======
-                    <a href="http://www.facebook.com/uialberto" Title="Nuestro Facebook" alt="Nuestro Facebook"><img src="img/facebookfans.png"  title="Visita Nuestro Facebook" alt="Visita Nuestro Facebook" width="200px" height="98px" /></a>
-            </div>
-       </div>
-       
->>>>>>> 4aab4aa79218cd8aea49e3dc466746ed7191f403
        <div class="descripcion-topografo">
             <h5 style="color: #666666; font-weight: bold; line-height: 1.25;">Im&aacute;genes Satelitales</h5>
             <div align="center" class="img-topografo">
@@ -94,12 +65,7 @@
             <p class="texto-parrafo">
                 <i>"Im&aacute;genes Satelitales de muy alta resoluci&oacute;n con caracter&iacute;sticas espec&iacute;ficas seg&uacute;n requerimientos de cada usuario."</i>
             </p>
-<<<<<<< HEAD
        </div>      
-=======
-       </div>
-       
->>>>>>> 4aab4aa79218cd8aea49e3dc466746ed7191f403
        <div class="descripcion-topografo">
             <h5 style="color: #666666; font-weight: bold; line-height: 1.25;">Hecho en Bolivia</h5>
             <div align="center" class="img-topografo">

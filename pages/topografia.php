@@ -21,11 +21,7 @@
 		</p>
 		<p class="texto-parrafo"><strong>Valores: </strong> Compromiso, Responsabilidad, Honestidad, Disciplina, Lealtad
 		</p>
-<<<<<<< HEAD
       <p class="texto-parrafo"><a class="buttom-mapa" title="Ir a " href="index.php?page=contacto"><em>Solicite ya su presupuesto sin compromiso.</em></a></p>
-=======
-      <p class="texto-parrafo"><a class="buttom-mapa" title="Ir a " href="index.php?page=contactanos"><em>Solicite ya su presupuesto sin compromiso.</em></a></p>
->>>>>>> 4aab4aa79218cd8aea49e3dc466746ed7191f403
       <div  align="center">
           <h5 style="color: #666666; font-weight: bold; line-height: 1.25; text-align: left;">Opina sobre nosotros</h5>
             <div class="fb-comments" data-href="http://www.topsatsc.com/index.php?page=topografia" data-num-posts="5" data-width="650"></div>     

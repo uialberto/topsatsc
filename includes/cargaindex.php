@@ -13,11 +13,7 @@ if (!isset($_GET['page'])) {
     $modulo = $_GET['page'];
     switch ($modulo) {
         // Caso en que el modulo solicitado no tiene sub modulos.
-<<<<<<< HEAD
         case 'blog': case 'contacto': 
-=======
-        case 'blog': case 'contactanos': 
->>>>>>> 4aab4aa79218cd8aea49e3dc466746ed7191f403
         case 'ubicacion':
         {
             include ('pages/'.$modulo.'.php');               
