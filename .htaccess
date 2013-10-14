@@ -1,4 +1,5 @@
 <IfModule mod_rewrite.c>
+<<<<<<< HEAD
 Options All -Indexes
 RewriteEngine on
 RewriteBase /
@@ -8,4 +9,16 @@ RewriteRule ^([a-zA-Z0-9_-]+)$ index.php?page=$1
 RewriteRule ^([a-zA-Z0-9_-]+)/$ index.php?page=$1
 RewriteRule ^([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)$ index.php?page=$1&subpage=$2
 RewriteRule ^([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/$ index.php?page=$1&subpage=$2
+=======
+#Options All -Indexes
+#RewriteEngine on
+#RewriteBase /topsat/ 
+#RewriteCond %{SCRIPT_FILENAME} !-d
+#RewriteCond %{SCRIPT_FILENAME} !-f
+#RewriteRule ^([a-zA-Z0-9_-]+)$ index.php?page=$1
+#RewriteRule ^([a-zA-Z0-9_-]+)/$ index.php?page=$1
+#RewriteRule ^([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)$ index.php?page=$1&subpage=$2
+#RewriteRule ^([a-zA-Z0-9_-]+)/([a-zA-Z0-9_-]+)/$ index.php?page=$1&subpage=$2
+
+>>>>>>> 4aab4aa79218cd8aea49e3dc466746ed7191f403
 </IfModule>

@@ -293,17 +293,32 @@ color: #555;
 }
 .ver-mas-servicios{
 width:100%;
+<<<<<<< HEAD
 text-align:center;
 padding-left: 0;
 padding-right: 0;
+=======
+background:#f0efef;
+text-align:center;
+>>>>>>> 4aab4aa79218cd8aea49e3dc466746ed7191f403
 padding-top:10px;
 padding-bottom:10px;
 font-weight:bold;
 position:absolute;bottom:0;
 color:#ff6600;
+<<<<<<< HEAD
 background: -webkit-gradient(linear, 0% 20%, 0% 100%, from(#fff), to(#fff), color-stop(.2, #f0efef));
 border: 1px solid #ccc;
 -webkit-box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.2);
+=======
+}
+.buttom{
+outline: none;
+font-size: 12px;
+text-decoration: none;
+font-weight: bold;
+color:#ff6600;
+>>>>>>> 4aab4aa79218cd8aea49e3dc466746ed7191f403
 }
 
 #crumbs span {
@@ -357,6 +372,7 @@ padding-bottom: 10px;
 clear: both;
 padding: 20px 15px 0 15px;
 }
+<<<<<<< HEAD
 
 
 /*************************** TODO PARA EL BOX4 *******************************/
@@ -461,3 +477,5 @@ border: 1px #ffab00 solid;
     color: #666666;
 }
 /*************************** TODO PARA EL BOX4 *******************************/
+=======
+>>>>>>> 4aab4aa79218cd8aea49e3dc466746ed7191f403

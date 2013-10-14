@@ -41,6 +41,10 @@ list-style:none;
 	}
 	
 ul#menu a:hover, ul#menu ul, ul#menu li:hover{
+<<<<<<< HEAD
+=======
+/*	background:#F90;*/
+>>>>>>> 4aab4aa79218cd8aea49e3dc466746ed7191f403
 	background:#3C3C3C;
 	color:#FFAB00;
 	} 
@@ -129,7 +133,10 @@ font-weight: normal;
 color: #BCBCBC;
 }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> 4aab4aa79218cd8aea49e3dc466746ed7191f403
 h1#logo {
 background: transparent url('../img/topsatsc.png') no-repeat 0 0;
 float: left;
@@ -151,6 +158,10 @@ font-size: 12px;
 padding-top: 24px;
 line-height: 20px;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4aab4aa79218cd8aea49e3dc466746ed7191f403
 .address-tex {
 text-align: right;
 font-size: 15px;
@@ -196,13 +207,21 @@ height:90px;
 width:100%;
 background:#333333;
 }
+<<<<<<< HEAD
 .texto-flotante{
 }
+=======
+
+>>>>>>> 4aab4aa79218cd8aea49e3dc466746ed7191f403
 #footer{
 font-size:11px;
 padding-bottom:0px;
 border-bottom-right-radius:5px;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 4aab4aa79218cd8aea49e3dc466746ed7191f403
 #footer {
 width:100%;
 margin:auto;
@@ -243,6 +262,7 @@ font-size: 12px;
 padding-top: 5px;
 background:#FFF;
 -moz-border-radius-bottomleft: 10px;
+<<<<<<< HEAD
 -moz-border-radius-bottomright: 10px;
 -webkit-border-bottom-left-radius: 10px;
 -webkit-border-bottom-right-radius: 10px;
@@ -251,6 +271,14 @@ height:100%;
 
 #crumbs
 {
+=======
+-webkit-border-bottom-left-radius: 10px;
+-moz-border-radius-bottomright: 10px;
+-webkit-border-bottom-right-radius: 10px;
+height:100%;
+}
+#crumbs{
+>>>>>>> 4aab4aa79218cd8aea49e3dc466746ed7191f403
 text-align:left;
 padding:5px;
 margin-top:5px;
@@ -263,6 +291,7 @@ border-radius: 3px;
 -webkit-border-radius: 3px;
 }
 .descripcion-maps{
+<<<<<<< HEAD
 margin-bottom:10px;
 margin-top:10px;
 margin-left:10px;
@@ -308,6 +337,13 @@ font-size: 12px;
 text-decoration: none;
 font-weight: bold;
 color:#ff6600;
+=======
+padding:10px;
+margin-bottom:10px;
+margin-top:10px;
+background:#CCCCCC;
+height:160px;
+>>>>>>> 4aab4aa79218cd8aea49e3dc466746ed7191f403
 }
 
 #crumbs span {
@@ -324,12 +360,17 @@ font-size:12px;
 font-weight:bold;
 color:#FF9900;
 }
+<<<<<<< HEAD
 .parrafo{
+=======
+.parrafo {
+>>>>>>> 4aab4aa79218cd8aea49e3dc466746ed7191f403
 line-height: 1.6;
 margin: 0 0 0 15px;
 font-size:12px;
 font-weight:bold;
 }
+<<<<<<< HEAD
 .titulo-box-servicios{
 padding-top:10px;
 text-align:center;
@@ -543,3 +584,12 @@ border: 1px #ffab00 solid;
     position: absolute;
     bottom: -1px;
 }
+=======
+.box-servicios
+{
+color:#FF9900;
+margin: 0px;
+line-height:0px;
+
+}
+>>>>>>> 4aab4aa79218cd8aea49e3dc466746ed7191f403
