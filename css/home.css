@@ -1,8 +1,18 @@
 @charset "iso-8859-2";
-
+/* CSS Document */
 body {
 font: 13px/1.5 Helvetica, Arial, 'Liberation Sans', FreeSans, sans-serif;
 background:#F2F2F2;
+}
+#page-home-slider-container{
+    /*width: 900px;*/
+    width: 100%;
+}
+#page-home-slider-container {    
+    padding: 5px; 
+/*    width: 900px; */
+    width: 95%; 
+    border: 0px #FFF solid;
 }
 div.spacer{
 height: 1em;
@@ -22,7 +32,6 @@ text-align: left;
 height: 41px;
 line-height: 41px;
 border-color:#00FF33;
-/*border:dotted 1px;*/
 }
 .bhtopfb {
 color: #999;
@@ -31,6 +40,19 @@ text-align: left;
 height: 41px;
 line-height: 41px;
 }
+.logo{
+float: left;
+display: inline;
+width: 100%;
+}
+.address{
+float: right;
+display: inline;
+width: 100%;  
+font-weight: normal;
+color: #BCBCBC;
+}
+
 #menucontenedor{
 background:#FFAB00;
 color: #999;
@@ -58,13 +80,11 @@ list-style:none;
 }
 
 .menuContainer{
-/*	background:#09F;*/
 	background: url("../img/bgmenusub.jpg") #FFAB00 repeat-x 0 0;
 	height:41px;
 	}
 	
 ul#menu a:hover, ul#menu ul, ul#menu li:hover{
-/*	background:#F90;*/
 	background:#3C3C3C;
 	color:#FFAB00;
 	} 
@@ -85,8 +105,6 @@ ul#menu a{
 	padding:0px 10px;
 	display:block;
 	font-weight:bold;
-	/*color:#A68900;*/
-	/*color:#A66F00;*/
 	color:#FFF;
 	}
 ul#menu ul{
@@ -106,7 +124,6 @@ ul#menu li:hover ul li a{
 	color:#FFFFFF;
 	}
 ul#menu li:hover ul a:hover{
-/*	background:#0C3;*/
 	background:#333333;
 	color:#FFAB00;
 }
@@ -126,23 +143,8 @@ background-position: right -35px;
 color: #599BFF;
 }
 
-
-.headerlogo {
-overflow: hidden;
-font-weight: normal;
-color: #BCBCBC;
-height: 106px;
-/*border:dotted 1px;*/
-}
-
-div.logo, div.address {
-float: left;
-display: inline;
-width: 50%;
-}
 h1#logo {
-/*background: transparent url('../img/topsatsc.png') no-repeat 0 0;*/
-background: transparent url('img/logotopsatsc.png') no-repeat 0 0;
+background: transparent url('../img/logotopsatsc.png') no-repeat 0 0;
 float: left;
 margin: 30px 0 0 0;
 width: 170px;
@@ -167,20 +169,12 @@ font-size: 15px;
 line-height: 20px;
 color:#FF9900;
 }
-.headerlogo div.logo, .headerlogo div.address {
-float: left;
-display: inline;
-width: 50%;
-}
 #bodyMain{
 background:#FFF;
 }
-#rss{
-background:url(img/rss-logo.gif) no-repeat right;
-padding:5px 30px 5px 0;
-}
+
 a#logo{
-background:url(img/vos-voz.gif) no-repeat;
+background:url(../img/vos-voz.gif) no-repeat;
 width:470px;
 height:92px;
 float:left;
@@ -210,13 +204,6 @@ width:286px;
 height:161px;
 background:#333333;
 }
-#footer{
-font-size:11px;
-/*border:dotted 2px;*/
-padding-bottom:0px;
-border-bottom-right-radius:5px;
-}
-
 
 #footer {
 width:100%;
@@ -225,7 +212,10 @@ position:absolute;
 font-weight: 400;
 color: #777;
 margin-top: 10px;
-background: url(img/bg-footer.png) #111 repeat-x top;
+background: url(../img/bg-footer.png) #111 repeat-x top;
+font-size:11px;
+padding-bottom:0px;
+border-bottom-right-radius:5px;
 }
 
 .right {
@@ -249,8 +239,6 @@ clear: both;
 font-size: 12px;
 text-align: center;
 padding-top: 30px;
-/*<!--border-color:#FFFF00;
-border:dotted 1px;-->*/
 }
 #contenido
 {
@@ -258,8 +246,6 @@ clear: both;
 font-size: 12px;
 text-align: center;
 padding-top: 5px;
-/*border-color:#FFFF00;/*
-/*border:dotted 0px;*/
 background:#FFF;
 -moz-border-radius-bottomleft: 10px;
 -webkit-border-bottom-left-radius: 10px;
@@ -267,19 +253,16 @@ background:#FFF;
 -webkit-border-bottom-right-radius: 10px;
 }
 
-/*       Region Slide       */
-
 #slider_container_3 { padding: 10px; width: 900px; border: 0px #FFF solid;}
 
 .SliderName_3 {
-	/*float: left;*/
 	width: 900px;
 	height: 288px;
 	overflow: hidden;
 }
 
 .SliderNamePrev_3 {
-	background: url(img/prev.gif) no-repeat left center;
+	background: url(../img/prev.gif) no-repeat left center;
 	width: 50px;
 	height: 450px;
 	display: block;
@@ -290,7 +273,7 @@ background:#FFF;
 }
 
 .SliderNameNext_3 {
-	background: url(img/next.gif) no-repeat right center;
+	background: url(../img/next.gif) no-repeat right center;
 	width: 50px;
 	height: 450px;
 	display: block;
@@ -322,7 +305,7 @@ background:#FFF;
 }
 
 #SliderNameNavigation_3 a.active:link, #SliderNameNavigation_3 a.active:active, #SliderNameNavigation_3 a.active:visited, #SliderNameNavigation_3 a.active:hover{
-	background: url(img/bullet_active.png) no-repeat center center;
+	background: url(../img/bullet_active.png) no-repeat center center;
 }
 
 #SliderNameNavigation_3 a img
@@ -330,13 +313,15 @@ background:#FFF;
 	border: none;
 	width: 16px;
 	height: 16px;
-	background: url(img/bullet.png) no-repeat center center;
+	background: url(../img/bullet.png) no-repeat center center;
 }
 
 #SliderNameNavigation_3 a.active img
 {
-	background: url(img/bullet_active.png) no-repeat center center;
+	background: url(../img/bullet_active.png) no-repeat center center;
 }
+
+
 .logos {
 clear: both;
 height: 75px;
@@ -352,8 +337,7 @@ background: #81BD02;
 margin: 0 auto 15px;
 }
 .ilogos {
-text-align: left;
-margin: 0 auto 15px;
+    margin: 0 auto 15px;
 }
 .brochure, .ilogos {
 display: inline;

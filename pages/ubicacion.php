@@ -10,11 +10,6 @@
                     personas particulares, comunidades campesinas, abogados y administraciones de fincas. Nuestra filosof&iacute;a es 
                     la de procurar un trato personalizado a cada cliente con el fin de conseguir la satisfacci&oacute;n del mismo.
             </p>
-            <div id="mapita" >
-                <p>
-                    <a href="#" class="mapita-estilo" onclick="javascript:cargarmapadirone();" alt="Ver Mapa Direccion Barrio / El Bibosi. Frente al Colegio Nacional La Guardia" Title="Ver Mapa Direccion Barrio / El Bibosi. Frente al Colegio Nacional La Guardia">1- Ver Direcci&oacute;n Barrio / El Bibosi. Frente al Colegio Nacional La Guardia</a>
-                </p>                 
-        		</div>
             <div id="contenido-mapa">
                 <iframe width="100%" height="420px" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps/ms?msa=0&amp;msid=215559018325829858630.0004cb0cc7a062a6020b0&amp;hl=es&amp;ie=UTF8&amp;t=m&amp;ll=-17.891051,-63.320314&amp;spn=0.004288,0.008572&amp;z=17&amp;iwloc=0004cb0cd911dff36289e&amp;output=embed"></iframe>
                 <br />

@@ -137,7 +137,7 @@
             Luis Fernando. Baigorria Lijeron.<br />
             <b>lbaigorria@topsatsc.com</b> <br />
             <i>Tel&eacute;fonos</i><br />
-            <spam style="color: #666666; font-weight: bold; line-height: 1.25;"><b>(+591) 716-29591 / 766-47814</b></spam>
+            <spam style="color: #666666; font-weight: bold; line-height: 1.25;"><b>(+591) 716-29591 / (+591)766-47814</b></spam>
             <br />Pablo Abrego.<br />
             <b>abrego.pablo@topsatsc.com</b> <br />
             <i>Tel&eacute;fonos</i><br />

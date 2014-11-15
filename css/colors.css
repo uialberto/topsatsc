@@ -1,0 +1,54 @@
+@charset "iso-8859-2";
+/* CSS Document */
+/*
+color.css - TOPSATSC- 1.1.0
+Determina los colores para cada seccion css.
+Copyright 2014 UIBASOFT! Inc. All rights reserved.
+*/
+.descripcion-footer {
+    clear: both;
+/*    width: 988px;*/
+/*    min-width: 988px;
+    max-width: 988px;*/
+    margin: 0 auto;
+    height: 80px;
+}
+#footer-descripcion {
+    clear: both;
+    font-size: 10px;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.banner-informacion-direccion-phone{
+    color: #DCE0E4;
+    font-size: 14px;
+    font-weight: bold;
+}
+.banner-informacion-direccion-trabajo
+{
+    color: #B6BFC9;
+    font-size: 12px;
+}
+.small {
+    font-size: 85%;
+}
+strong {
+    font-weight: bold;
+}
+.mailto {
+    color: #FF9900;;
+}
+
+
+.text-phone-style-skype{
+    font: 13px/1.5 Helvetica, Arial, 'Liberation Sans', FreeSans, sans-serif;
+    font-size: 12px;
+    font-weight: 700;
+    color:#5EB6E5;    
+}
+
+.text-phone-cel{        
+    color: #fff500;
+    font-size: 14px;
+}

@@ -1,11 +1,9 @@
 <div id="footer">
-    <div class="bfooter">
-        <div class="container_12" id="icopy">
-        <span>&copy; Todos los Derechos Reservados <strong>TOP-SAT.</strong> 2012. 
-        <small> | Design by </small>
-        <a href="http://uibasoft.110mb.com/" style="text-decoration:none;color:#CCCCCC;" 
-        target="_blank" title="UIBASOFT" alt="UIBASOFT">UIBASOFT</a>
-        <small> | </small>&Uacute;ltima Actualizaci&oacute;n: 21 de Mayo de 2013</span><small> | </small>
+    <div class="descripcion-footer">
+        <div id="footer-descripcion"  class="container_12" >
+            <span>Todos los Derechos Reservados. Copyright &copy;  2014 - <a href="http://www.uibasoft.com/" style="text-decoration:none;color:#CCCCCC;" 
+            target="_blank" title="UIBASOFT">UIBASOFT</a>.  &Uacute;ltima Actualizaci&oacute;n: Noviembre de 2014.            
+                <br>Aviso Legal: Todos los contenidos, videos y fotografías son propiedad exclusiva de TOP-SAT. Podrán ser utilizadas solo con la Autorización del Autor (C).</span>            
         </div>
     </div>
 </div>

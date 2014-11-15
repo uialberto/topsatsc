@@ -7,12 +7,16 @@
 <div class="grid_8" prefix_5>         
     <div class="address">
         <p>
-            <strong>Direcci&oacute;n: </strong>
-            <span>La Guardia. Barrio / Bibosi Frente al Colegio Nacional La Guardia</span>
-            <br />
-            <span>Topografo: Luis Fernando Baigorria L.</span>
-            <br />
-            <strong class="address-tex"> Cel.: (591) 716-29591 / 766-47814</strong>                                 
+            <span class='banner-informacion-direccion-phone'>            
+            <span><strong>E-mail: </strong><a class="mailto" href="mailto:info@topsatsc.com">info@topsatsc.com</a></span>            
+            <span><strong>Cel.: </strong></span><span class="text-phone-style-skype">(591) 716-29591</span> | <span class="text-phone-style-skype">(591) 766-47814</span>            
+        </span>
+        <span class='banner-informacion-direccion-trabajo'>
+            <br />             
+            <strong>Topógrafo: Luis Fernando Baigorria L.</strong>
+            <br />          
+            <span><strong>Dirección: </strong>La Guardia. Barrio el Bibosi Frente al Colegio Nacional La Guardia</span>            
+        </span>
         </p>
     </div>       
 </div>

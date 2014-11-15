@@ -16,7 +16,7 @@
                     alt="Luis Fernando Baigorria Lijeron" Title="Luis Fernando Baigorria Lijeron" height="150px" width="150px"/>
 
                 <strong>Top&oacute;grafo</strong><br />
-                      <strong>Cel.</strong> +591 716-29591 - 766-47814 <br />
+                      <strong>Cel.</strong> (+591) 716-29591 - (+591) 766-47814 <br />
                     <a href="mailto:lbaigorria@topsatsc.com">lbaigorria@topsatsc.com</a><br /><br />
                       <b>Director general.</b>
                       Con m&aacute;s de 25 a&ntilde;os de experiencia. 
@@ -37,7 +37,7 @@
 
 
                 <strong>Top&oacute;grafo</strong><br />
-                      <strong>Cel.</strong> +591 716-29591 - 766-47814 <br />
+                      <strong>Cel.</strong> (+591) 716-29591 - (+591) 766-47814 <br />
                     <a href="mailto:abrego.pablo@topsatsc.com">abrego.pablo@topsatsc.com</a> <br /><br />                  
                       Con m&aacute;s de 6 a&ntilde;os de experiencia. 
                       Ha realizado trabajos en mensura, parcelamientos, levantamientos topograficos, urbanizaciones, mediciones, replanteos, deslindes; dentro y 
